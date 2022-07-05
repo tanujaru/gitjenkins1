@@ -15,6 +15,11 @@ public class NewTest {
 	  System.out.println("hello Git jenlkin 3");
   }
   @Test
+  public void f4() {
+	  System.out.println("hello Git jenlkin 2");
+	  System.out.println("hello Git jenlkin 3");
+  }
+  @Test
   public void f3() throws InterruptedException {
 	  System.out.println("hello Git jenlkin 2");
 	  System.setProperty("webdriver.chrome.driver", "C:\\Tanuja\\installer\\selenium\\chromedriver_win32\\chromedriver.exe");
